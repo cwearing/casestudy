@@ -1,0 +1,152 @@
+[
+  {
+    "Name": "Space Marine Tactical Squad",
+    "Graphic": "Tactical Squad Boxart",
+    "Cost": "50.00",
+    "MSRP": "15.00",
+    "OnHand": "10",
+    "BackO": "50",
+    "Description": "A box containing 10 Space Marine Tactical Marines, usable in all instances and variations of Tactical Marine datasheets that can be found in the codicies.",
+    "Brand": "Astartes"
+  },
+  {
+    "Name": "Space Marine Assault Squad",
+    "Graphic": "Assault Squad Boxart",
+    "Cost": "70.00",
+    "MSRP": "21.00",
+    "OnHand": "5",
+    "BackO": "70",
+    "Description": "A box containing 5 Space Marine Assault Marines, usable in all instances and variations of Assault Marine datasheets that can be found in the codicies.",
+    "Brand": "Astartes"
+  },
+  {
+    "Name": "Space Marine Devestator Squad",
+    "Graphic": "Devestator Squad Boxart",
+    "Cost": "70.00",
+    "MSRP": "21.00",
+    "OnHand": "4",
+    "BackO": "30",
+    "Description": "A box containing 5 Space Marine Devestator Marines, usable in all instances and variations of Devestator Marine datasheets that can be found in the codicies.",
+    "Brand": "Astartes"
+  },
+  {
+    "Name": "Space Marine Terminators",
+    "Graphic": "Terminators Boxart",
+    "Cost": "60.00",
+    "MSRP": "18.00",
+    "OnHand": "5",
+    "BackO": "50",
+    "Description": "A box containing 5 Space Marine Terminators, usable in all instances and variations of Terminator datasheets that can be found in the codicies.",
+    "Brand": "Astartes"
+  },
+  {
+    "Name": "Space Marine Captain",
+    "Graphic": "Captain Boxart",
+    "Cost": "30.00",
+    "MSRP": "9.00",
+    "OnHand": "10",
+    "BackO": "50",
+    "Description": "A box containing 1 Space Marine Captain, usable in all instances and variations of Captain datasheets that can be found in the codicies.",
+    "Brand": "Astartes"
+  },
+  {
+    "Name": "Space Marine Primaris Librarian",
+    "Graphic": "Librarian Boxart",
+    "Cost": "25.00",
+    "MSRP": "7.50",
+    "OnHand": "7",
+    "BackO": "60",
+    "Description": "A box containing 1 Space Marine Primaris Librarian, usable in all instances and variations of Primaris Librarian datasheets that can be found in the codicies.",
+    "Brand": "Primaris"
+  },
+  {
+    "Name": "Space Marine Reivers",
+    "Graphic": "Reivers Boxart",
+    "Cost": "80.00",
+    "MSRP": "24.00",
+    "OnHand": "10",
+    "BackO": "60",
+    "Description": "A box containing 10 Space Marine Reivers, usable in all instances and variations of Reiver datasheets that can be found in the codicies.",
+    "Brand": "Primaris"
+  },
+  {
+    "Name": "Space Marine Intercessors",
+    "Graphic": "Intercessors Boxart",
+    "Cost": "75.00",
+    "MSRP": "22.50",
+    "OnHand": "15",
+    "BackO": "60",
+    "Description": "A box containing 10 Space Marine Intercessors, usable in all instances and variations of Intercessor datasheets that can be found in the codicies.",
+    "Brand": "Primaris"
+  },
+  {
+    "Name": "Space Marine Inceptors",
+    "Graphic": "Inceptors Boxart",
+    "Cost": "80.00",
+    "MSRP": "24.00",
+    "OnHand": "15",
+    "BackO": "60",
+    "Description": "A box containing 3 Space Marine Inceptors, usable in all instances and variations of Inceptor datasheets that can be found in the codicies.",
+    "Brand": "Primaris"
+  },
+  {
+    "Name": "Space Marine Hellblasters",
+    "Graphic": "Hellblasters Boxart",
+    "Cost": "75.00",
+    "MSRP": "22.50",
+    "OnHand": "10",
+    "BackO": "40",
+    "Description": "A box containing 10 Space Marine Hellblasters, usable in all instances and variations of Hellblaster datasheets that can be found in the codicies.",
+    "Brand": "Primaris"
+  },
+  {
+    "Name": "Space Marine Rhino",
+    "Graphic": "Rhino Boxart",
+    "Cost": "35.00",
+    "MSRP": "10.50",
+    "OnHand": "5",
+    "BackO": "80",
+    "Description": "A box containing 1 Space Marine Rhino, usable in all instances and variations of Rhino datasheets that can be found in the codicies.",
+    "Brand": "Astartes Vehicles"
+  },
+  {
+    "Name": "Space Marine Bikers",
+    "Graphic": "Bikers Boxart",
+    "Cost": "50.00",
+    "MSRP": "15.00",
+    "OnHand": "7",
+    "BackO": "60",
+    "Description": "A box containing 3 Space Marine Bikers, usable in all instances and variations of Biker datasheets that can be found in the codicies.",
+    "Brand": "Astartes Vehicles"
+  },
+  {
+    "Name": "Space Marine Dreadnought",
+    "Graphic": "Dreadnought Boxart",
+    "Cost": "60.00",
+    "MSRP": "18.00",
+    "OnHand": "5",
+    "BackO": "66",
+    "Description": "A box containing 1 Space Marine Dreadnought, usable in all instances and variations of Dreadnought datasheets that can be found in the codicies.",
+    "Brand": "Astartes Vehicles"
+  },
+  {
+    "Name": "Space Marine Predator",
+    "Graphic": "Predator Boxart",
+    "Cost": "70.00",
+    "MSRP": "21.00",
+    "OnHand": "3",
+    "BackO": "42",
+    "Description": "A box containing 1 Space Marine Predator, usable in all instances and variations of Predator datasheets that can be found in the codicies.",
+    "Brand": "Astartes Vehicles"
+  },
+  {
+    "Name": "Space Marine Stormraven",
+    "Graphic": "Stormraven Boxart",
+    "Cost": "100.00",
+    "MSRP": "30.00",
+    "OnHand": "7",
+    "BackO": "38",
+    "Description": "A box containing 1 Space Marine Stormraven, usable in all instances and variations of Stormraven datasheets that can be found in the codicies.",
+    "Brand": "Astartes Vehicles"
+  }
+]
