@@ -1,7 +1,7 @@
 [
   {
     "Name": "Space Marine Tactical Squad",
-    "Graphic": "Tactical Squad Boxart",
+    "Graphic": "Boxart1",
     "Cost": "50.00",
     "MSRP": "15.00",
     "OnHand": "10",
@@ -11,7 +11,7 @@
   },
   {
     "Name": "Space Marine Assault Squad",
-    "Graphic": "Assault Squad Boxart",
+    "Graphic": "Boxart2",
     "Cost": "70.00",
     "MSRP": "21.00",
     "OnHand": "5",
@@ -21,7 +21,7 @@
   },
   {
     "Name": "Space Marine Devestator Squad",
-    "Graphic": "Devestator Squad Boxart",
+    "Graphic": "Boxart3",
     "Cost": "70.00",
     "MSRP": "21.00",
     "OnHand": "4",
@@ -31,7 +31,7 @@
   },
   {
     "Name": "Space Marine Terminators",
-    "Graphic": "Terminators Boxart",
+    "Graphic": "Boxart4",
     "Cost": "60.00",
     "MSRP": "18.00",
     "OnHand": "5",
@@ -41,7 +41,7 @@
   },
   {
     "Name": "Space Marine Captain",
-    "Graphic": "Captain Boxart",
+    "Graphic": "Boxart5",
     "Cost": "30.00",
     "MSRP": "9.00",
     "OnHand": "10",
@@ -51,7 +51,7 @@
   },
   {
     "Name": "Space Marine Primaris Librarian",
-    "Graphic": "Librarian Boxart",
+    "Graphic": "Boxart6",
     "Cost": "25.00",
     "MSRP": "7.50",
     "OnHand": "7",
@@ -61,7 +61,7 @@
   },
   {
     "Name": "Space Marine Reivers",
-    "Graphic": "Reivers Boxart",
+    "Graphic": "Boxart7",
     "Cost": "80.00",
     "MSRP": "24.00",
     "OnHand": "10",
@@ -71,7 +71,7 @@
   },
   {
     "Name": "Space Marine Intercessors",
-    "Graphic": "Intercessors Boxart",
+    "Graphic": "Boxart8",
     "Cost": "75.00",
     "MSRP": "22.50",
     "OnHand": "15",
@@ -81,7 +81,7 @@
   },
   {
     "Name": "Space Marine Inceptors",
-    "Graphic": "Inceptors Boxart",
+    "Graphic": "Boxart9",
     "Cost": "80.00",
     "MSRP": "24.00",
     "OnHand": "15",
@@ -91,7 +91,7 @@
   },
   {
     "Name": "Space Marine Hellblasters",
-    "Graphic": "Hellblasters Boxart",
+    "Graphic": "Boxart10",
     "Cost": "75.00",
     "MSRP": "22.50",
     "OnHand": "10",
@@ -101,7 +101,7 @@
   },
   {
     "Name": "Space Marine Rhino",
-    "Graphic": "Rhino Boxart",
+    "Graphic": "Boxart11",
     "Cost": "35.00",
     "MSRP": "10.50",
     "OnHand": "5",
@@ -111,7 +111,7 @@
   },
   {
     "Name": "Space Marine Bikers",
-    "Graphic": "Bikers Boxart",
+    "Graphic": "Boxart12",
     "Cost": "50.00",
     "MSRP": "15.00",
     "OnHand": "7",
@@ -121,7 +121,7 @@
   },
   {
     "Name": "Space Marine Dreadnought",
-    "Graphic": "Dreadnought Boxart",
+    "Graphic": "Boxart13",
     "Cost": "60.00",
     "MSRP": "18.00",
     "OnHand": "5",
@@ -131,7 +131,7 @@
   },
   {
     "Name": "Space Marine Predator",
-    "Graphic": "Predator Boxart",
+    "Graphic": "Boxart14",
     "Cost": "70.00",
     "MSRP": "21.00",
     "OnHand": "3",
@@ -141,7 +141,7 @@
   },
   {
     "Name": "Space Marine Stormraven",
-    "Graphic": "Stormraven Boxart",
+    "Graphic": "Boxart15",
     "Cost": "100.00",
     "MSRP": "30.00",
     "OnHand": "7",
